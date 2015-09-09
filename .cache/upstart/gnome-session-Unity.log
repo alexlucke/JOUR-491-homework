@@ -358,3 +358,6 @@ ERROR 2015-09-09 10:07:45 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJ
 ERROR 2015-09-09 10:35:50 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
 ERROR 2015-09-09 10:35:50 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
 ERROR 2015-09-09 10:35:50 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-09-09 10:49:00 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-09-09 10:49:00 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-09-09 10:49:00 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed

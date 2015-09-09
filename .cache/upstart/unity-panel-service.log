@@ -14,3 +14,7 @@
 (unity-panel-service:1446): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
 
 (unity-panel-service:1446): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1446): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1446): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
