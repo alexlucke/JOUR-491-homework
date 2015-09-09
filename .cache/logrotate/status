@@ -1,0 +1,14 @@
+logrotate state -- version 2
+"/home/alexlucke/.cache/upstart/indicator-sound.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/update-notifier-release.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/im-config.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/indicator-bluetooth.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/gnome-keyring-gpg.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/unity7.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/ssh-agent.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/gnome-keyring-ssh.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/unity-settings-daemon.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/gnome-session-Unity.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/dbus.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/window-stack-bridge.log" 2015-9-8-16:0:0
+"/home/alexlucke/.cache/upstart/indicator-power.log" 2015-9-8-16:0:0
