@@ -30,15 +30,15 @@
 	<ul>
 	    <h1>Experience</h1>
 	        <ul>
-	            <li>Media Intern -     Fasone &and; Partners (Summer 2015)</li>
+	            <li>Media Intern -     Fasone & Partners (Summer 2015)</li>
 	            <li>Reporter - Daily Nebrasakan</li>
-	            <li>Nanny - California &and; Kansas</li>
+	            <li>Nanny - California & Kansas</li>
 	      </ul>
     	<h1>Education</h1>
     	    <ul>
     	        <li>University of Nebraska - Lincoln</li>
-    	            <ul>Majors: Journalism &and; AD/PR</ul>
-    	            <ul>Minors: Informatics &and; Digital Humanities </ul>
+    	            <ul>Majors: Journalism & AD/PR</ul>
+    	            <ul>Minors: Informatics & Digital Humanities </ul>
     	            <ul>Concentration: Data Journalism</ul>
     	            <li>Olathe Northwest High School</li>
     	    </ul>
@@ -57,12 +57,5 @@ Tumblr,	LinkedIn,	Soundcloud)</li>
 <li>Perfecting	the	art	of	the	mix	tape</li>
 	</ul>
 	</ul>
-	
-
-	
-	    <div id="header"></div>
-	    <div class="left"></div>
-	    <div class="right"></div>
-	    <div id="footer"></div>
 	</body>
 </html>
